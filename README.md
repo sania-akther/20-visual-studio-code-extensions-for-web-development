@@ -62,6 +62,6 @@
 20. Better Align
     [https://marketplace.visualstudio.com/items?itemName=wwm.better-align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
-## Want to install all of the extensions listed below at once?! Check out
+## Want to install all of the extensions listed above at once?! Check out
 
 [The Web Development Essentials Extension](https://marketplace.visualstudio.com/items?itemName=jamesqquick.web-development-essentials-extension-pack)
